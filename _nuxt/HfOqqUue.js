@@ -1,0 +1,1 @@
+import{_ as t}from"./CNG0ggIO.js";import{_ as r}from"./DlAUqK2U.js";import{f as s,n,A as a,m as c}from"./DcqQ6i2p.js";import"./BgvcBn_a.js";import"./D-gephX2.js";const _={},i={class:"relative"};function m(e,p){const o=t;return s(),n("div",i,[a(e.$slots,"default"),c(o)])}const k=r(_,[["render",m]]);export{k as default};
