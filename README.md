@@ -24,8 +24,8 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/artisanal-shop-finder.git
-   cd artisanal-shop-finder
+   git clone https://github.com/Hemant-khadun/artisanal.git
+   cd artisanal
    ```
 
 2. Install the dependencies:
