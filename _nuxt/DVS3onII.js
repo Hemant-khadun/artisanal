@@ -1,0 +1,1 @@
+import{y as m}from"./Bv-pOpPk.js";function f(i){const{navigation:c}=m(),s=[],r=i.split("/").filter(e=>e!=="");let n="",l=c.value;for(let e=0;e<r.length;e++){const o=r[e].replace(".html","");n+=`/${o}`;const t=l.find(u=>u._path===n);l=t==null?void 0:t.children,s.push({title:(t==null?void 0:t.title)??o,href:n})}return s}export{f as u};

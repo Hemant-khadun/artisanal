@@ -1,0 +1,1 @@
+import{_ as o}from"./DxQ6Z7q-.js";import{_ as s}from"./DlAUqK2U.js";import{f as c,n,m as r}from"./Bv-pOpPk.js";const t={},a={class:"relative flex w-full flex-col items-center justify-center p-8"};function i(m,_){const e=o;return c(),n("div",a,[r(e,{src:"/images/inspira-ss-phone.png",class:"size-full max-w-sm"})])}const u=s(t,[["render",i]]);export{u as default};
