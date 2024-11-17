@@ -1,1 +1,0 @@
-import{_ as t}from"./Cfh4T_XQ.js";import{_ as o}from"./DlAUqK2U.js";import{f as r,n as c,m as s}from"./DcqQ6i2p.js";import"./D-gephX2.js";import"./BeB1mQcs.js";const n={},a={class:"flex flex-col items-center justify-center"};function m(i,_){const e=t;return r(),c("div",a,[s(e,{"image-src":"/og-image.png","responsive-width":!0})])}const u=o(n,[["render",m]]);export{u as default};

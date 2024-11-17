@@ -1,1 +1,0 @@
-import{_ as t}from"./DlAUqK2U.js";import{f as o,n as s,l,A as a}from"./C9QOXPtL.js";const r={},c={class:"w-full overflow-y-auto [&:not(:first-child)]:mt-6 [&:not(:last-child)]:mb-6"},n={class:"w-full"};function f(e,_){return o(),s("div",c,[l("table",n,[a(e.$slots,"default")])])}const m=t(r,[["render",f]]);export{m as default};

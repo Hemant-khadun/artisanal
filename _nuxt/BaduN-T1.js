@@ -1,1 +1,0 @@
-import{c as e}from"./D-gephX2.js";import{e as r,f as n,n as t,A as c,p as l,u as m}from"./DcqQ6i2p.js";const u=r({__name:"BentoGrid",props:{class:{}},setup(s){const o=s;return(a,p)=>(n(),t("div",{class:l(m(e)("grid md:auto-rows-[18rem] grid-cols-1 md:grid-cols-3 gap-4 max-w-7xl mx-auto ",o.class))},[c(a.$slots,"default")],2))}});export{u as _};

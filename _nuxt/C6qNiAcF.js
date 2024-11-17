@@ -1,1 +1,0 @@
-import{e,az as a,f as t,n as s}from"./DcqQ6i2p.js";const c=e({__name:"SeoMeta",setup(o){return a({title:"Artisanal: Find and support the closest local shops near you.",description:"It is a platform where you can find and support the closest artisanal shops near you."}),(n,r)=>(t(),s("span"))}});export{c as default};

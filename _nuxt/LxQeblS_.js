@@ -1,1 +1,0 @@
-import o from"./B7G11pdL.js";import{_ as n}from"./DlAUqK2U.js";import{f as a,h as f,j as r,l as c}from"./C9QOXPtL.js";import"./BjnAGth8.js";const s={};function m(_,t){const e=o;return a(),f(e,null,{default:r(()=>t[0]||(t[0]=[c("span",{class:"font-heading text-6xl"}," Lamp Effect ",-1)])),_:1})}const d=n(s,[["render",m]]);export{d as default};

@@ -1,1 +1,0 @@
-import{c as e}from"./D24aqAm4.js";import{e as r,f as a,n as o,A as n,p as t,u as p}from"./Bv-pOpPk.js";const d=r({__name:"CardBody",props:{class:String},setup(l){return(s,c)=>(a(),o("div",{class:t(p(e)("h-96 w-96",s.$props.class)),style:{"transform-style":"preserve-3d"}},[n(s.$slots,"default")],2))}});export{d as _};
