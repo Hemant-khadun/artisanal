@@ -35,4 +35,4 @@ To run this project locally:
 
 ## Screenshot
 
-   ![Alt text]()
+   ![Alt text](https://raw.githubusercontent.com/Hemant-khadun/artisanal/refs/heads/main/Screenshot%20Artisanal.png)
