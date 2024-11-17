@@ -1,0 +1,1 @@
+import{_ as e}from"./Bwr0gh0Z.js";import{_ as r}from"./DlAUqK2U.js";import{f as o,h as c}from"./B5_BuWJT.js";import"./BUdFNuJC.js";const a={};function s(_,n){const t=e;return o(),c(t,{words:"Staggered Letter Pull Up",delay:50,class:"text-black dark:text-white"})}const i=r(a,[["render",s]]);export{i as default};

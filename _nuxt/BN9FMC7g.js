@@ -1,0 +1,1 @@
+import e from"./D58RWAsh.js";import{_ as n}from"./DlAUqK2U.js";import{f as r,n as s,m as a,j as c,a8 as _}from"./B5_BuWJT.js";import"./BUdFNuJC.js";const i={},m={class:"flex min-h-64 items-center justify-center"};function f(u,t){const o=e;return r(),s("div",m,[a(o,null,{default:c(()=>t[0]||(t[0]=[_(" Rainbow Button ")])),_:1})])}const B=n(i,[["render",f]]);export{B as default};

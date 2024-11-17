@@ -1,1 +1,0 @@
-import{_ as e}from"./CgCz_OAH.js";import{_ as o}from"./DlAUqK2U.js";import{f as c,n as r,m as a}from"./Cl5bgDjB.js";const n={},t={class:"relative p-4"};function i(_,m){const s=e;return c(),r("div",t,[a(s,{url:"inspira-ui.com",src:"/images/inspira-ss.png",class:"size-full"})])}const u=o(n,[["render",i]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as r}from"./2CXJKNVD.js";import{_ as t}from"./DlAUqK2U.js";import{f as c,h as e}from"./B5_BuWJT.js";import"./DLA4LUqG.js";import"./D8dJILZ0.js";import"./BUdFNuJC.js";const a={};function i(n,s){const o=r;return c(),e(o,{class:"h-96","particle-count":500})}const u=t(a,[["render",i]]);export{u as default};
